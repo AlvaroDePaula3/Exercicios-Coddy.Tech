@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\bin\Debug\net6.0\Estrutura básicas C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\bin\Debug\net6.0\Estrutura básicas C#.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\bin\Debug\net6.0\Estrutura básicas C#.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\bin\Debug\net6.0\Estrutura básicas C#.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\bin\Debug\net6.0\Estrutura básicas C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\refint\Estrutura básicas C#.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\Estrutura básicas C#.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura básicas C#\Estrutura básicas C#\obj\Debug\net6.0\ref\Estrutura básicas C#.dll
