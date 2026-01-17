@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\bin\Debug\net7.0\Declarações de tipo.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\bin\Debug\net7.0\Declarações de tipo.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\bin\Debug\net7.0\Declarações de tipo.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\bin\Debug\net7.0\Declarações de tipo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\bin\Debug\net7.0\Declarações de tipo.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\refint\Declarações de tipo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\Declarações de tipo.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Declarações de tipo\Declarações de tipo\Declarações de tipo\obj\Debug\net7.0\ref\Declarações de tipo.dll
