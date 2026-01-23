@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\bin\Debug\net7.0\conversão de tipos.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\bin\Debug\net7.0\conversão de tipos.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\bin\Debug\net7.0\conversão de tipos.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\bin\Debug\net7.0\conversão de tipos.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\bin\Debug\net7.0\conversão de tipos.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\refint\conversão de tipos.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\conversão de tipos.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\conversão de tipos Coddy\conversão de tipos\conversão de tipos\obj\Debug\net7.0\ref\conversão de tipos.dll
