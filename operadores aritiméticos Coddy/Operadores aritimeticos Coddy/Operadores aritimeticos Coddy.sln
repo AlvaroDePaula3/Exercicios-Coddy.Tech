@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores aritimeticos Coddy", "Operadores aritimeticos Coddy\Operadores aritimeticos Coddy.csproj", "{C5BF1DD2-FC6E-4532-B0AE-641D3E0C13D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BF1DD2-FC6E-4532-B0AE-641D3E0C13D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BF1DD2-FC6E-4532-B0AE-641D3E0C13D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BF1DD2-FC6E-4532-B0AE-641D3E0C13D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BF1DD2-FC6E-4532-B0AE-641D3E0C13D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F3BAE0-A837-4B10-BABB-AEE742D39E82}
+	EndGlobalSection
+EndGlobal

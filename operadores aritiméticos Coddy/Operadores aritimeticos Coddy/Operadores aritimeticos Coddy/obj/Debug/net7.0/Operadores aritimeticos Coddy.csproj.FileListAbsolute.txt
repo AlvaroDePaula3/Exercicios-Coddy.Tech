@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\bin\Debug\net7.0\Operadores aritimeticos Coddy.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\bin\Debug\net7.0\Operadores aritimeticos Coddy.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\bin\Debug\net7.0\Operadores aritimeticos Coddy.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\bin\Debug\net7.0\Operadores aritimeticos Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\bin\Debug\net7.0\Operadores aritimeticos Coddy.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\refint\Operadores aritimeticos Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\Operadores aritimeticos Coddy.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\operadores aritiméticos Coddy\Operadores aritimeticos Coddy\Operadores aritimeticos Coddy\obj\Debug\net7.0\ref\Operadores aritimeticos Coddy.dll
