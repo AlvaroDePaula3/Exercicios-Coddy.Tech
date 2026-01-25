@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\bin\Debug\net7.0\Incremento_Decremento.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\bin\Debug\net7.0\Incremento_Decremento.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\bin\Debug\net7.0\Incremento_Decremento.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\bin\Debug\net7.0\Incremento_Decremento.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\bin\Debug\net7.0\Incremento_Decremento.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\refint\Incremento_Decremento.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\Incremento_Decremento.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Incremento_Decremento Coddy\Incremento_Decremento\Incremento_Decremento\obj\Debug\net7.0\ref\Incremento_Decremento.dll
