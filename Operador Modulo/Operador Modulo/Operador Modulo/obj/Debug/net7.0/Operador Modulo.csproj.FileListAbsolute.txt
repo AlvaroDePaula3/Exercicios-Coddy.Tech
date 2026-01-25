@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\bin\Debug\net7.0\Operador Modulo.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\bin\Debug\net7.0\Operador Modulo.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\bin\Debug\net7.0\Operador Modulo.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\bin\Debug\net7.0\Operador Modulo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\bin\Debug\net7.0\Operador Modulo.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\refint\Operador Modulo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\Operador Modulo.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operador Modulo\Operador Modulo\Operador Modulo\obj\Debug\net7.0\ref\Operador Modulo.dll
