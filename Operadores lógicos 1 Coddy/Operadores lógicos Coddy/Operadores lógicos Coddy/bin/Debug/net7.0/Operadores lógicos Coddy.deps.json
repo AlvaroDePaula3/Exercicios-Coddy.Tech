@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Operadores lógicos Coddy/1.0.0": {
+        "runtime": {
+          "Operadores lógicos Coddy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operadores lógicos Coddy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
