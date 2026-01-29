@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\bin\Debug\net7.0\operadores de comparação.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\bin\Debug\net7.0\operadores de comparação.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\bin\Debug\net7.0\operadores de comparação.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\bin\Debug\net7.0\operadores de comparação.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\bin\Debug\net7.0\operadores de comparação.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\refint\operadores de comparação.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\operadores de comparação.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores de comparação\operadores de comparação\operadores de comparação\obj\Debug\net7.0\ref\operadores de comparação.dll
