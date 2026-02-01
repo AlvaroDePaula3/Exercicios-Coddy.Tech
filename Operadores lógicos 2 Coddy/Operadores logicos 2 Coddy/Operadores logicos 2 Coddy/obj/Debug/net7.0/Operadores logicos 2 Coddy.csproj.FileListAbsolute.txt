@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\bin\Debug\net7.0\Operadores logicos 2 Coddy.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\bin\Debug\net7.0\Operadores logicos 2 Coddy.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\bin\Debug\net7.0\Operadores logicos 2 Coddy.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\bin\Debug\net7.0\Operadores logicos 2 Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\bin\Debug\net7.0\Operadores logicos 2 Coddy.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\refint\Operadores logicos 2 Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\Operadores logicos 2 Coddy.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Operadores lógicos 2 Coddy\Operadores logicos 2 Coddy\Operadores logicos 2 Coddy\obj\Debug\net7.0\ref\Operadores logicos 2 Coddy.dll
