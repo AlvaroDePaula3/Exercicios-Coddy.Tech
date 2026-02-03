@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\bin\Debug\net7.0\instrução if Coddy.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\bin\Debug\net7.0\instrução if Coddy.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\bin\Debug\net7.0\instrução if Coddy.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\bin\Debug\net7.0\instrução if Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\bin\Debug\net7.0\instrução if Coddy.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\refint\instrução if Coddy.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\instrução if Coddy.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\instrução if Coddy\instrução if Coddy\instrução if Coddy\obj\Debug\net7.0\ref\instrução if Coddy.dll
