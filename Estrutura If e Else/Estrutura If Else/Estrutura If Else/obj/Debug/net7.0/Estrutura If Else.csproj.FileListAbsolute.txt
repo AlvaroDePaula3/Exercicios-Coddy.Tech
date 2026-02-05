@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\bin\Debug\net7.0\Estrutura If Else.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\bin\Debug\net7.0\Estrutura If Else.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\bin\Debug\net7.0\Estrutura If Else.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\bin\Debug\net7.0\Estrutura If Else.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\bin\Debug\net7.0\Estrutura If Else.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\refint\Estrutura If Else.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\Estrutura If Else.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\códigos coddy\Estrutura If e Else\Estrutura If Else\Estrutura If Else\obj\Debug\net7.0\ref\Estrutura If Else.dll
